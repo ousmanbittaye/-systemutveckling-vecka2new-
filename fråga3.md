@@ -1,0 +1,3 @@
+# Fråga 3
+
+GitHub gör det enkel för att flera personer ska kunna jobba på samma projekt utan något krångel. Det gör de lättare att dela kod med varandra och man kan slå ihop varandras arbete utan att skriva över någons. Branches innebär en kopia av projektet där du kan jobba sparat med att bygga och testa något nytt utan att det förstöra Main och när man är klar så gör man en Pull Request och det menas att andra som du jobbar med kan kontrollera det du har gjort om det är bra och det fungerar och sen godkänna det. Marge betyder att man slår ihop en Branch och Main och allt blir som ett igen och det gör man efter de du jobbar med har godkänd ändringen.
