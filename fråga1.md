@@ -1,0 +1,5 @@
+# Fråga1
+
+Med Agile arbetssättet skulle jag börja med att fixa inloggningen och profil och sen testa att det fungerar och efter det släpper jag det till användarna och få deras feedback och om det är något att ändra så fixar jag det innan jag går vidare. Sen jobbar jag vidare med att fixa så att man kan ladda upp bilder och att få bildflöde, samma sak där jag testar det och fixat allt efter feedback från användarna, om allt är som det ska så går jag vidare med att fixar så att man kan följa andra användare och även skicka meddelanden mellan varandra och så fortsätter jag steg för steg. Resultatet blir att jag kommer kunna ändra på saker baserat på den feedback jag får av användarna. planering, design, testa, och lansering i varje liten steg.
+
+Med vattenfall hade jag gjort alla steg på en gång genom att fixa Inloggning, profil, ladda upp bilder, följ, följare, meddelanden och sen testa att allt fungerar som det ska efter det lanserar jag det till användarna. Resultatet här blir att appen kommer se ut exakt som det är planerat att vara från början och det inget som kommer att ändras.
